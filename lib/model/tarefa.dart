@@ -1,9 +1,9 @@
 import 'package:intl/intl.dart';
 
 class Tarefa {
-  static const campo_id = '_id';
-  static const campo_descricao = 'descricao';
-  static const campo_prazo = 'prazo';
+  static const campoId = '_id';
+  static const campoDescricao = 'descricao';
+  static const campoPrazo = 'prazo';
 
   int id;
   String descricao;
